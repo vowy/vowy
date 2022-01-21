@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning UI methods, python, react/redux
 - 💞️ I’m looking to collaborate on web-apps, websites, design projects, art, music... etc
 - 📫 How to reach me... email: [e.b.parsons@gmail.com](mailto:e.b.parsons@gmail.com), telegram: [@a_e_i_o_u](https://t.me/a_e_i_o_u), discord: vowy#5805
+---
